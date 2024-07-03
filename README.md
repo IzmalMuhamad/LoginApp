@@ -1,0 +1,1 @@
+This is a project that focuses on using DOM for authentication
